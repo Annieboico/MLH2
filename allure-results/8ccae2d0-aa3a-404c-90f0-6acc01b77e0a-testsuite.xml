@@ -1,0 +1,38 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1603354415799' stop='1603354419690'>
+    <name>My Little Hero: Getting to the page</name>
+    <title>My Little Hero: Getting to the page</title>
+    <test-cases>
+        <test-case start='1603354415800' status='passed' stop='1603354419690'>
+            <name>TC-001 Title is correct </name>
+            <title>TC-001 Title is correct </title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.80'/>
+            </parameters>
+            <steps>
+                <step start='1603354415817' status='passed' stop='1603354417661'>
+                    <name>POST /session/:sessionId/url</name>
+                    <title>POST /session/:sessionId/url</title>
+                    <attachments>
+                        <attachment title='Request' source='ef4ec9df-380e-46d6-9ee1-229ed02e8d9a-attachment.json' type='application/json' size='54'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1603354417662' status='passed' stop='1603354417682'>
+                    <name>GET /session/:sessionId/title</name>
+                    <title>GET /session/:sessionId/title</title>
+                    <attachments>
+                        <attachment title='Response' source='7608227d-d287-4d4f-96ec-ad23df65b94e-attachment.json' type='application/json' size='11'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
