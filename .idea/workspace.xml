@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e722b65e-85a6-482a-a476-0ab1fa160aeb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore " beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/expected.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/selectors.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.12.3.test.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.12.3.test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/initial.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/smoke/initial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wdio.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/wdio.conf.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jAd4JTMLrYzpcSFCkxSyZU1rBY" />
@@ -35,6 +43,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/smoke" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -57,5 +70,9 @@
       <screen x="0" y="23" width="1280" height="724" />
     </state>
     <state x="723" y="182" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.724@0.23.1280.724" timestamp="1603510952461" />
+    <state x="366" y="251" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603768217885">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="366" y="251" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1280.709@0.23.1280.709" timestamp="1603768217885" />
   </component>
 </project>
