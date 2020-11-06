@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e722b65e-85a6-482a-a476-0ab1fa160aeb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/testData.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helpers/inputValues4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helpers/inputValues4Click.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/smoke/inputs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/smoke/mainfunctionality.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/expected.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/expected.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/selectors.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/selectors.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.12.3.test.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.12.3.test.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/smoke/initial.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/smoke/labels.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wdio.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/wdio.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/smoke/mainfunctionality.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/smoke/mainfunctionality.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +88,7 @@
       <workItem from="1604304408323" duration="3667000" />
       <workItem from="1604356038230" duration="15202000" />
       <workItem from="1604475601319" duration="2000" />
-      <workItem from="1604559867861" duration="6883000" />
+      <workItem from="1604559867861" duration="8301000" />
     </task>
     <servers />
   </component>
