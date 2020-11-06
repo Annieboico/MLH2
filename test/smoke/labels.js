@@ -61,10 +61,10 @@ describe('My Little Hero', function () { //define suite title by passing a strin
             expect(text).toEqual(exp.labelStory);
         });
 
-        /*it('TC-010 Label for story = 5. Upload an image (optional)', function () {
-            const text = $$()[4].getAttribute('title');
-            expect(text).toEqual(exp.labelStory);
-        }); */
+        it('TC-010 Label for story = 5. Upload an image (optional)', function () {
+            const text = $$(sel.labelFive)[4].getText();
+            expect(text).toEqual(exp.labelImage);
+        });
 
 
         describe('Home page description', function () {
@@ -79,15 +79,6 @@ describe('My Little Hero', function () { //define suite title by passing a strin
                 expect(text).toEqual(exp.labelGender);
             });
 
-            it('TC-008 Label for age = 3. How old is your Hero?', function () {
-                const text = $$(sel.label)[2].getAttribute('title');
-                expect(text).toEqual(exp.labelAge);
-            });
-
-            it('TC-009 Label for story = 4. What type of story would you like to read?', function () {
-                const text = $$(sel.label)[3].getAttribute('title');
-                expect(text).toEqual(exp.labelStory);
-            });
 
 
 

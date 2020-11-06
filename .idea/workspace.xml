@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e722b65e-85a6-482a-a476-0ab1fa160aeb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/expected.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/selectors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/testData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helpers/inputValues4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helpers/inputValues4Click.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/smoke/inputs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/smoke/mainfunctionality.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/expected.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/expected.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/selectors.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/selectors.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.12.3.test.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.12.3.test.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/initial.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/smoke/initial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/smoke/initial.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/smoke/labels.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wdio.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/wdio.conf.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +46,39 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/test/smoke" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Inputs.Inputs are displayed.TC-015 Gender He" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/smoke/inputs.js</test-file>
+      <test-names>
+        <name value="Inputs" />
+        <name value="Inputs are displayed" />
+        <name value="TC-015 Gender He" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.Inputs.Inputs are displayed.TC-015 Gender He" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,6 +90,13 @@
       <updated>1603250637792</updated>
       <workItem from="1603250638921" duration="5723000" />
       <workItem from="1603510287665" duration="4668000" />
+      <workItem from="1604046003717" duration="8000" />
+      <workItem from="1604122594990" duration="501000" />
+      <workItem from="1604196066903" duration="540000" />
+      <workItem from="1604304408323" duration="3667000" />
+      <workItem from="1604356038230" duration="15202000" />
+      <workItem from="1604475601319" duration="2000" />
+      <workItem from="1604559867861" duration="6883000" />
     </task>
     <servers />
   </component>
@@ -66,10 +104,15 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="723" y="182" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603510952461">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state x="723" y="182" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604562361403">
+      <screen x="0" y="23" width="1280" height="722" />
     </state>
+    <state x="723" y="182" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.722@0.23.1280.722" timestamp="1604562361403" />
     <state x="723" y="182" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.724@0.23.1280.724" timestamp="1603510952461" />
+    <state x="218" y="61" width="598" height="606" key="find.popup" timestamp="1604563366008">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="218" y="61" width="598" height="606" key="find.popup/0.23.1280.722@0.23.1280.722" timestamp="1604563366008" />
     <state x="366" y="251" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603768217885">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
